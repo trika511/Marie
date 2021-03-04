@@ -7,7 +7,7 @@ class Config(object):
     OWNER_USERNAME = "Trika"
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = 'vxhhbvdm:ibzMO48UqkcFWgooU2v5jxiRlGQK1CK8@ziggy.db.elephantsql.com:5432/catuserbot'  # needed for any database modules
     MESSAGE_DUMP = None  # needed to make sure 'save from' messages persist
     LOAD = []
     NO_LOAD = ['translation', 'rss']
